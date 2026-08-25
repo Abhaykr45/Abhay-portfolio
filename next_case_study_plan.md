@@ -29,6 +29,10 @@ I will explain the face-recognition workflow, liveness detection, attendance rec
 ## Build Context
 
 I will keep my existing Claude Project so I can reuse my portfolio voice, structure, stack, and identity kit when adding future case studies.
+## Build Context
+
+I will keep my existing Claude Project so I can reuse my portfolio voice, structure, stack, and identity kit when adding future case studies.
+
 ## Reminder
 
 A reminder has been set for **September 1, 2026 at 7:00 PM** to:
